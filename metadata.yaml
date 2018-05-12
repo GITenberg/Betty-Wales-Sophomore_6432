@@ -1,4 +1,8 @@
 _repo: Betty-Wales-Sophomore_6432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dunton, Edith K. (Edith Kellogg)
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '35189'
     url: http://www.gutenberg.org/2009/agents/35189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6432#Betty-Wales-Sophomore
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
